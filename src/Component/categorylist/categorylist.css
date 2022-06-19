@@ -1,0 +1,12 @@
+table {
+    align-content: center;
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+    background-color: peru;
+}
+.cat-container{
+    height: 100vh;
+    background-color:darkgoldenrod  
+}
